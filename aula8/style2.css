@@ -1,0 +1,68 @@
+/* Este arquivo contém SOMENTE regras CSS sem a Tag <style>
+Ele está ligado ao index e sobre.html */
+ header {
+        background-color: #d292f7;
+
+    }
+    header h1 {
+        color: #2e0538;
+       margin: 0;
+       padding: 10px;
+       font-family: Comic Sans MS, cursive, sans-serif;
+       text-align: center;
+    }
+    header p {
+        color: #2e0538;
+        margin: 0;
+        padding: 5px;
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
+    nav {text-align: center;
+
+    }
+    nav a {
+        color: #2e0538;
+        text-decoration: none;
+        margin: 10px;
+        font-family: Arial, sans-serif;
+    }
+    body {
+        background-color: #d4c2eb;
+    
+   
+    }
+    main {
+        padding: 20px;
+        width: 400px;
+        margin:  auto;
+    }
+    main h2{
+        text-align: center;
+        color: #2e0538;
+        font-family:Arial, Helvetica, sans-serif, sans-serif;
+    }
+    section {
+        background-color: #fdecff;
+        border: 1px solid #2e0538;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+    section h3 {
+        color: #2e0538;
+        margin: 0;
+        font-family: Georgia, serif;
+    }
+    section p {
+        color: #2e0538;
+        margin: 16px 0 0 0;
+        font-family: Verdana, sans-serif;
+    }
+    footer {
+        background-color: #d292f7;
+        color: #2e0538;
+        text-align: center;
+        padding: 10px;
+        font-family: 'Segoe UI', sans-serif;
+    }
