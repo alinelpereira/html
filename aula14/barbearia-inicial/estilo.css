@@ -40,7 +40,7 @@
 
 body {
   font-family: 'Sora', sans-serif;
-  background-color: #06121e;
+  background-color: #996c41;
 }
 
 img {
@@ -58,7 +58,7 @@ i {
 
 /* Contorno para quem navega pelo teclado */
 a:focus-visible {
-  outline: 3px solid #f68e36;
+  outline: 3px solid #996c41;
   outline-offset: 3px;
 }
 
